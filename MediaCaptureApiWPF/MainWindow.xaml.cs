@@ -10,7 +10,7 @@ using System.Drawing.Imaging;
 using Windows.System.Display;
 
 
-namespace WebCamWPF
+namespace MediaCaptureWPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
